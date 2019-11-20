@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">TicTacToe</string>
+    <string name="xturn">It is X\'s turn</string>
+    <string name="oturn">It is O\'s turn</string>
+</resources>
